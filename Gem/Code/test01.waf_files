@@ -1,0 +1,22 @@
+{
+    "none": {
+        "Source": [
+            "Source/test01_precompiled.cpp",
+            "Source/test01_precompiled.h"
+        ]
+    },
+    "auto": {
+        "Include": [
+            "Include/test01/test01Bus.h"
+        ],
+        "Source": [
+            "Source/test01Module.cpp",
+            "Source/test01SystemComponent.cpp",
+            "Source/test01SystemComponent.h"
+        ],
+        "Components": [
+            "Source/Components/TickTockComponent.cpp",
+            "Source/Components/TickTockComponent.h"
+        ]		
+    }
+}
