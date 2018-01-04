@@ -1,6 +1,6 @@
 # test01
 Simple example of a c++ component in Amazon Lumberyard.
-Clone this repo directly into your Lumberyard/Dev folder, and then make it the default project using the Project Configurator.
+Clone this repo directly into your Lumberyard/Dev folder (Your folder structure should end up as lumberyard/dev/test01/...), and then make it the default project using the Project Configurator.
 The level for the sample is "level_test"
 Once everything is built, launch the game with /Lumberyard/Dev/Bin64vc140/test01Launcher.exe +map level_test
 
