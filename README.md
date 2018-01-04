@@ -34,4 +34,4 @@ The new component will show up in the editor as "TickTockComponent" once you com
 Here is what it looks like when the game is running in the editor:
 You can see the component entry on the side menu, and also the "tick" printing in the game console.
 #
-![Alt text](GitReadmePics/EditorView.png?raw=true "Title")
+![Alt text](GitReadmePics/EditorView.PNG?raw=true "Title")
